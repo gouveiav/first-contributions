@@ -90,6 +90,17 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 replacing `<your-name>` with your name.
 
+If you receive the following message.
+**Please tell me who you are.
+Run
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+Enter the commands with the correct syntax.
+For example:
+  git config --global user.email "johnsmith@example.com"
+  git config --global user.name johnsmith
+Try the git commit -m command again. 
+
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
